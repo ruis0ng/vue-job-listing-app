@@ -1,4 +1,4 @@
-# vue-crash-2024
+# vue-job-listin-app
 
 This template should help get you started developing with Vue 3 in Vite.
 
